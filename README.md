@@ -1,2 +1,5 @@
 # taiwan-address-laravel-admin
-taiwan address list for laravel-admin 
+台灣郵遞區號json檔
+
+用途
+laravel-admin
